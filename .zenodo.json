@@ -1,20 +1,18 @@
 {
-  "title": "GenesisAeon Entropy Atlas — Packages 25 & 26: Apoptosis ATP Threshold + Neuromorphic SNN Hardware Bridge",
-  "description": "UTAC simulations for two GenesisAeon Entropy Atlas packages. Package 25 (cellular-genesis): programmed cell death, intracellular ATP dynamics, mitochondrial membrane potential, Bcl-2/Bcl-xL anti-apoptotic network, ultrasensitive caspase cascade — CREP criticality Γ ≈ 0.090. Package 26 (spiking-aeon): Neuromorphic SNN bridge for Intel Loihi 2, LIF neuron dynamics, CREP→synaptic weight mapping, stochastic resonance optimisation — CREP criticality Γ ≈ 0.150 (NeuEdge 2026: 847 GOp/s/W, 2.3 ms latency). Part of the GenesisAeon Entropy Atlas (Packages 17–30).",
-  "creators": [{"name": "Römer, Johann", "affiliation": "MOR Research Collective"}],
+  "title": "spiking-aeon: Neuromorphic SNN Hardware Bridge UTAC Model — GenesisAeon Package 26",
+  "description": "UTAC simulation bridging the GenesisAeon CREP framework to Intel Loihi 2 neuromorphic hardware. Maps CREP {C,R,E,P} to LIF parameters (tau_m, synaptic weights, stochastic resonance noise, tau_ref). Gamma ~= 0.150 (eta=0.32). Pure-Python Brian2-compatible simulation; Lava SDK for real hardware. Calibrated: NeuEdge 2026 — 847 GOp/s/W, 2.3 ms latency, 89% core utilisation. GenesisAeon Entropy Atlas Package 26.",
+  "creators": [{"name": "Roemer, Johann", "affiliation": "MOR Research Collective"}],
   "keywords": [
-    "apoptosis", "ATP threshold", "UTAC", "CREP", "caspase", "mitochondria",
-    "programmed cell death", "cellular criticality", "GenesisAeon", "entropy atlas",
-    "Package 25", "spiking neural network", "neuromorphic", "Loihi 2", "LIF neuron",
-    "stochastic resonance", "NeuEdge", "Package 26", "Intel Loihi"
+    "spiking neural network", "neuromorphic", "Loihi 2", "CREP", "UTAC",
+    "stochastic resonance", "LIF neuron", "GenesisAeon", "entropy atlas",
+    "Package 26", "NeuEdge", "Intel Loihi", "Brian2"
   ],
   "license": "MIT",
   "upload_type": "software",
   "access_right": "open",
   "related_identifiers": [
-    {"identifier": "10.3389/fcell.2025.1611055", "relation": "isCitedBy", "scheme": "doi"},
     {"identifier": "10.3389/fnins.2025.1676570", "relation": "isCitedBy", "scheme": "doi"},
     {"identifier": "10.5281/zenodo.19645351", "relation": "isDocumentedBy", "scheme": "doi"}
   ],
-  "version": "0.2.0"
+  "version": "0.1.0"
 }

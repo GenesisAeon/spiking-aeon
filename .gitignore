@@ -20,6 +20,3 @@ site/
 .vscode/
 .idea/
 *.swp
-
-# Claude Code internal
-.claude/
