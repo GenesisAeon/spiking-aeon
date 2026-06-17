@@ -1,6 +1,6 @@
 [project]
 name = "spiking-aeon"
-version = "0.1.0"
+version = "1.0.0"
 description = "GenesisAeon Entropy Atlas Package 26 — Neuromorphic SNN Hardware Bridge (Intel Loihi 2)"
 readme = "README.md"
 license = { text = "MIT" }
