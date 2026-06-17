@@ -124,14 +124,28 @@ BTW Sandpile (SOC)           P22   0.296    58%
 
 ---
 
-## BibTeX
+## Role in the GenesisAeon Ecosystem
+
+`spiking-aeon` is **Package 26** of the GenesisAeon Entropy Atlas, in the
+**neuromorphic hardware** domain. It bridges the GenesisAeon CREP
+criticality framework to physical Spiking Neural Network hardware (Intel
+Loihi 2), positioning SNN firing-rate criticality (Γ ≈ 0.150) on the
+ecosystem's broader CREP Criticality Spectrum alongside other domains such
+as qubit decoherence, apoptosis, and self-organized criticality.
+
+## Citation
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19645351.svg)](https://doi.org/10.5281/zenodo.19645351)
+
+DOI will be updated automatically on each GitHub Release once
+Zenodo–GitHub integration is enabled for this repo.
 
 ```bibtex
 @software{romer2026spiking_aeon,
   author    = {Romer, Johann},
   title     = {spiking-aeon: Neuromorphic SNN Hardware Bridge (Package 26)},
   year      = {2026},
-  version   = {0.1.0},
+  version   = {1.0.0},
   publisher = {Zenodo},
   doi       = {10.5281/zenodo.19645351},
 }
