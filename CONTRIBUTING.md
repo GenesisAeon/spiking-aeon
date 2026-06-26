@@ -37,6 +37,14 @@ version bump (see `RELEASE_GUIDE.md`).
 Please use the issue templates in `.github/ISSUE_TEMPLATE/` — they help us
 triage bug reports vs. feature requests quickly.
 
+## Licensing of contributions
+
+This repository is dual-licensed: code under GPL-3.0-or-later, documentation
+under CC BY 4.0 (see `LICENSE` and `LICENSE-DOCS`). By submitting a pull
+request you agree that your contribution is licensed under the same terms
+as the file(s) you are changing (code changes under GPL-3.0-or-later,
+documentation changes under CC BY 4.0).
+
 ## Scientific claims
 
 This package is part of a research framework. If your contribution

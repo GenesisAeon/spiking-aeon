@@ -7,7 +7,7 @@
     "stochastic resonance", "LIF neuron", "GenesisAeon", "entropy atlas",
     "Package 26", "NeuEdge", "Intel Loihi", "Brian2"
   ],
-  "license": "MIT",
+  "license": "GPL-3.0-or-later",
   "upload_type": "software",
   "access_right": "open",
   "related_identifiers": [
