@@ -6,6 +6,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
+### Changed
+- Relicensed from MIT to a dual license: code under
+  **GPL-3.0-or-later** (`LICENSE`), documentation under
+  **CC BY 4.0** (`LICENSE-DOCS`).
 
 ## [1.0.0] - 2026
 ### Added

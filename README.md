@@ -4,7 +4,8 @@
 
 [![CI](https://github.com/GenesisAeon/spiking-aeon/actions/workflows/ci.yml/badge.svg)](https://github.com/GenesisAeon/spiking-aeon/actions/workflows/ci.yml)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11%2B-blue)](https://www.python.org)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![License: GPLv3+](https://img.shields.io/badge/License-GPLv3%2B-blue.svg)](LICENSE)
+[![Docs License: CC BY 4.0](https://img.shields.io/badge/Docs%20License-CC%20BY%204.0-lightgrey.svg)](LICENSE-DOCS)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19645351.svg)](https://doi.org/10.5281/zenodo.19645351)
 [![Package 26](https://img.shields.io/badge/GenesisAeon-Package%2026-blueviolet)](https://github.com/GenesisAeon/spiking-aeon)
 [![NeuEdge](https://img.shields.io/badge/arXiv-2602.02439-red)](https://arxiv.org/abs/2602.02439)
@@ -132,6 +133,14 @@ criticality framework to physical Spiking Neural Network hardware (Intel
 Loihi 2), positioning SNN firing-rate criticality (Γ ≈ 0.150) on the
 ecosystem's broader CREP Criticality Spectrum alongside other domains such
 as qubit decoherence, apoptosis, and self-organized criticality.
+
+## License
+
+This repository is **dual-licensed**:
+
+- **Code** (`src/`, `tests/`) — [GNU GPLv3-or-later](LICENSE)
+- **Documentation** (README, `docs/`, `RELEASE_GUIDE.md`, `CONTRIBUTING.md`,
+  and other prose) — [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE-DOCS)
 
 ## Citation
 

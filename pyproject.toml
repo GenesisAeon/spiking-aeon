@@ -3,7 +3,8 @@ name = "spiking-aeon"
 version = "1.0.0"
 description = "GenesisAeon Entropy Atlas Package 26 — Neuromorphic SNN Hardware Bridge (Intel Loihi 2)"
 readme = "README.md"
-license = { text = "MIT" }
+license = "GPL-3.0-or-later"
+license-files = ["LICENSE", "LICENSE-DOCS"]
 authors = [{ name = "Johann Roemer", affiliation = "MOR Research Collective" }]
 requires-python = ">=3.11"
 keywords = [
@@ -13,7 +14,6 @@ keywords = [
 classifiers = [
     "Development Status :: 4 - Beta",
     "Intended Audience :: Science/Research",
-    "License :: OSI Approved :: MIT License",
     "Programming Language :: Python :: 3",
     "Programming Language :: Python :: 3.11",
     "Programming Language :: Python :: 3.12",
