@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "spiking-aeon"
+version: "1.0.0"
+date-released: "2026-06-17"
+authors:
+  - family-names: Roemer
+    given-names: Johann
+repository-code: "https://github.com/GenesisAeon/spiking-aeon"
+license: GPL-3.0-or-later
+abstract: "GenesisAeon Entropy Atlas Package 26 — Neuromorphic SNN Hardware Bridge (Intel Loihi 2)"
+keywords:
+  - GenesisAeon
+  - UTAC
+  - CREP
+  - open-science
+  - spiking neural network
+  - neuromorphic
+  - Loihi 2
+  - stochastic resonance
