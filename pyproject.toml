@@ -39,7 +39,7 @@ dev = [
 Homepage = "https://github.com/GenesisAeon/spiking-aeon"
 Repository = "https://github.com/GenesisAeon/spiking-aeon"
 Issues = "https://github.com/GenesisAeon/spiking-aeon/issues"
-Zenodo = "https://doi.org/10.5281/zenodo.19645351"
+Zenodo = "https://doi.org/10.5281/zenodo.20934165"
 
 [build-system]
 requires = ["hatchling"]

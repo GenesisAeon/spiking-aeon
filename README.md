@@ -6,7 +6,7 @@
 [![Python 3.11+](https://img.shields.io/badge/python-3.11%2B-blue)](https://www.python.org)
 [![License: GPLv3+](https://img.shields.io/badge/License-GPLv3%2B-blue.svg)](LICENSE)
 [![Docs License: CC BY 4.0](https://img.shields.io/badge/Docs%20License-CC%20BY%204.0-lightgrey.svg)](LICENSE-DOCS)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19645351.svg)](https://doi.org/10.5281/zenodo.19645351)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20934165.svg)](https://doi.org/10.5281/zenodo.20934165)
 [![Package 26](https://img.shields.io/badge/GenesisAeon-Package%2026-blueviolet)](https://github.com/GenesisAeon/spiking-aeon)
 [![NeuEdge](https://img.shields.io/badge/arXiv-2602.02439-red)](https://arxiv.org/abs/2602.02439)
 
@@ -144,10 +144,7 @@ This repository is **dual-licensed**:
 
 ## Citation
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19645351.svg)](https://doi.org/10.5281/zenodo.19645351)
-
-DOI will be updated automatically on each GitHub Release once
-Zenodo–GitHub integration is enabled for this repo.
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20934165.svg)](https://doi.org/10.5281/zenodo.20934165)
 
 ```bibtex
 @software{romer2026spiking_aeon,
@@ -156,7 +153,7 @@ Zenodo–GitHub integration is enabled for this repo.
   year      = {2026},
   version   = {1.0.0},
   publisher = {Zenodo},
-  doi       = {10.5281/zenodo.19645351},
+  doi       = {10.5281/zenodo.20934165},
 }
 
 @misc{neuredge2026,
